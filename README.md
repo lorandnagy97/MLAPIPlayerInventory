@@ -31,12 +31,10 @@ _The Inventory object is saved as a prefab for organization and ease-of-access r
 
 <br /><br /><br />
 
-[Tools Class (Attached to Inventory Object)](./Documentation/Tools.md)
+### [Tools Namespace, Tools Class, ToolI(Tool Interface), Tool Base Class](./Documentation/Tools.md)
 <br /><br />
-[Tool Base Class](url)
+### [Tool Visibility Script](url)
 <br /><br />
-[Tool Visibility Script](url)
+### [Example Tool Without GameObject](url)
 <br /><br />
-[Example Tool Without GameObject](url)
-<br /><br />
-[Example Tool With GameObject](url)
+### [Example Tool With GameObject](url)
