@@ -1,5 +1,4 @@
 # MLAPI Player Inventory
-Hey all!
 
 I've noticed that both myself and others have been struggling when it comes to utilizing MLAPI's spawning functionality to create tools (guns, etc), due to various errors having to do with MLAPI's inability to handle nested networkobjects. In some cases it's rather important to have the tool be nested inside the playerobject (for example positioning and animations), but calling NetworkObject.Spawn() will not allow this.
 
