@@ -31,7 +31,7 @@ _The Inventory object is saved as a prefab for organization and ease-of-access r
 
 <br /><br /><br />
 
-[Tools Namespace](url)
+[Tools Class (Attached to Inventory Object)](./Documentation/Tools.md)
 <br /><br />
 [Tool Base Class](url)
 <br /><br />
