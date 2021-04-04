@@ -33,6 +33,8 @@ _The Inventory object is saved as a prefab for organization and ease-of-access r
 
 ### [Tools Namespace, Tools Class, ToolI(Tool Interface), Tool Base Class](./Documentation/Tools.md)
 <br /><br />
+### [Activating tool using OnTriggerEnter](./Documentation/ActivatingOnTriggerEnter.md)
+<br /><br />
 ### [Tool Visibility Script](url)
 <br /><br />
 ### [Example Tool Without GameObject](url)
