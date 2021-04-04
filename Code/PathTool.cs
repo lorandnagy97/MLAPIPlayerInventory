@@ -6,7 +6,7 @@ using MLAPI.Messaging;
 
 namespace Tools
 {
-    public class ToolNoGameObject : Tool
+    public class PathTool : Tool
     {
         public GameObject PathObject;
         Vector3 GetPathLocation() {
