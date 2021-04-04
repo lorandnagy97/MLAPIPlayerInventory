@@ -6,21 +6,16 @@ using MLAPI.Messaging;
 using MLAPI.NetworkVariable;
 
 namespace Tools {
-
     public interface ToolI
     {
         bool IsActive {get; set;}
         int InputMouseKey {get; set;}
-        GameObject ToolModel {get;}
     }
 
     public class Tool : NetworkBehaviour, ToolI {
         public NetworkVariableBool active;
         public bool isActive;
         public int inputMouseKey;
-        public GameObject toolModel;
-
-        public NetworkVariableULong toolModelNetId;
         public bool IsActive {
             get {
                 return isActive;
@@ -50,16 +45,9 @@ namespace Tools {
             }
         }
 
-        public GameObject ToolModel {
-            get {
-                return null;
-            }
-        }
-
         public Tool() {
             this.isActive = false;
             this.inputMouseKey = 0;
-            this.toolModel = null;
         }
 
         public virtual void Activate() {
@@ -77,9 +65,6 @@ namespace Tools {
 
         void Update() {
             isActive = active.Value;
-            if(inputMouseKey == 0) {
-                if(IsLocalPlayer && Input.GetKeyDown)
-            }
         }
     }
 
