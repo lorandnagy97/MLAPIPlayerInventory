@@ -30,13 +30,13 @@ By doing all this, and a few more little tweaks, we get to piggyback on the Play
 _The Inventory object is saved as a prefab for organization and ease-of-access reasons, and the pistol object is a prefab as well, however they are not spawned separately from the PlayerObject._
 
 <br /><br /><br />
-<h1>
-  [Tools Namespace](url)
-  <br /><br />
-  [Tool Base Class](url)
-  <br /><br />
-  [Tool Visibility Script](url)
-  <br /><br />
-  [Example Tool Without GameObject](url)
-  <br /><br />
-  [Example Tool With GameObject](url)
+
+[Tools Namespace](url)
+<br /><br />
+[Tool Base Class](url)
+<br /><br />
+[Tool Visibility Script](url)
+<br /><br />
+[Example Tool Without GameObject](url)
+<br /><br />
+[Example Tool With GameObject](url)
