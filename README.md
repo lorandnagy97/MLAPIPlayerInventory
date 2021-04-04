@@ -35,8 +35,8 @@ _The Inventory object is saved as a prefab for organization and ease-of-access r
 <br /><br />
 ### [Activating tool using OnTriggerEnter](./Documentation/ActivatingOnTriggerEnter.md)
 <br /><br />
-### [Tool Visibility Script](url)
+### [Tool Visibility Script](./Documentation/ToolVisibility.md)
 <br /><br />
-### [Example Tool Without GameObject](url)
+### [Example Tool Without GameObject](./Code/PathTool.cs)
 <br /><br />
-### [Example Tool With GameObject](url)
+### [Example Tool With GameObject](./Code/PistolTool.cs)
