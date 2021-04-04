@@ -1,5 +1,5 @@
 # Tools.cs
-#### [You can find the full code for this class here.](../Code/Tools.cs)
+#### [You can find the full code for this file here.](../Code/Tools.cs)
 
 
 The tools script is a bit jumbled as I wasn't really sure what I was going for, so apologies for that, but here goes:
